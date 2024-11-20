@@ -7,7 +7,7 @@ Wireshark was used to analyze network traffic and extract key insights.
 A DLL file was decrypted to investigate its contents and behavior.
 VirusTotal was leveraged to confirm the malicious nature of identified artifacts.
 
-#Project Workflow
+# Project Workflow
   Network File Analysis with Wireshark
   Imported the provided .pcap file into Wireshark.
   Applied filters to locate suspicious traffic, including encrypted traffic and unusual patterns.
